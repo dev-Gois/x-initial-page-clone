@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'ChirpExtendedHeavy';
+  src: url(../assets/fonts/ChirpExtendedHeavy.ttf);
+}
+
+@font-face {
+  font-family: 'ChirpMedium';
+  src: url(../assets/fonts/ChirpMedium.ttf);
+}
+
+@font-face {
+  font-family: 'ChirpRegular';
+  src: url(../assets/fonts/ChirpRegular.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  color: rgb(231, 233, 234);
+  font-family: 'ChirpExtendedHeavy';
+}
+
+p {
+  color: rgb(231, 233, 234);
+  font-family: 'ChirpMedium';
+}
+
